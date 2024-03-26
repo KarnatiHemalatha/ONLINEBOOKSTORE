@@ -91,7 +91,7 @@ insert into books values('9780132778046','Effective Java','Joshua Bloch',368,21)
 insert into books values('9781484255995','Practical Rust Projects','Shing Lyu',257,15);
 insert into users values('demo','demo','Demo','User','Demo Home','42502216225','demo@gmail.com',2);
 insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
+insert into users values('hema','srinivas','hema','Raj','Bihar','1236547089','hemalathakarnati2002@gmail.com',2);
 
 commit;
 
@@ -140,4 +140,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Karnati Hemalatha</b>
